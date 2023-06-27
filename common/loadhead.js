@@ -60,7 +60,7 @@ function loadheaderexecute(level) {
 
 
         var speakers = "../program/speakers.html"
-        var schedule = "../program/schedule.html"
+        var schedule = "../index.html"
 
         var hwse = "../yjjb/hwse.html"
         var jyrg = "../yjjb/jyrg.html"
