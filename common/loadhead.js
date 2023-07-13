@@ -117,8 +117,8 @@ function loadheaderexecute(level) {
     // navbarcollapseul.append(yjjb_bar);
 
     // add committee
-    // var committee_bar = $('<li><a href="' + OrganizeTeam + '">组织委员会</a></li>')
-    // navbarcollapseul.append(committee_bar)
+    var committee_bar = $('<li><a href="' + OrganizeTeam + '">组织委员会</a></li>')
+    navbarcollapseul.append(committee_bar)
 
 
 
